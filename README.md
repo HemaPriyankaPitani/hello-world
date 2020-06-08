@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Everyone!
+
+Myself Hema Priyanka, I'm intrested in doing projects based on Artificial Intelligence.
